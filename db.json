@@ -11,5 +11,9 @@
   "profile": {
     "name": "typicode"
   },
-  "name" : "myjsonserver"
+  "name" : "myjsonserver",
+  "hello" : {
+    "hello" : "hello content",
+    "hello1" : "hello1 hello1"
+  }
 }
