@@ -13,34 +13,34 @@
   "profile": {
     "name": "typicode"
   },
-  "hello" : {
-    "hello" : "hello content",
-    "hello1" : "hello1 hello1"
+  "hello": {
+    "hello": "hello content",
+    "hello1": "hello1 hello1"
   },
   "datamatrix1": {
-                "data": {    
-                  "sections":[
-                      {
-                        rows: [
-                            {
-                              name: "OS",
-                              value: ['Android 12']
-                            },
-                            {
-                              name: "RAM",
-                              value: ["8GB"]
-                            },
-                            {
-                              name: "STORAGE",
-                              value: ["120GB"]
-                            },
-                            {
-                              name: "NETWORK TYPE",
-                              value: ["5G,4G,3G"]
-                            }
-                          ],
-                      }
-                  ]
-                }
+    "data": {
+      "sections": [
+        {
+          "rows": [
+            {
+              "name": "OS",
+              "value": ["Android 12"]
+            },
+            {
+              "name": "RAM",
+              "value": ["8GB"]
+            },
+            {
+              "name": "STORAGE",
+              "value": ["120GB"]
+            },
+            {
+              "name": "NETWORK TYPE",
+              "value": ["5G,4G,3G"]
             }
+          ]
+        }
+      ]
+    }
+  }
 }
