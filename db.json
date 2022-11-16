@@ -42,5 +42,31 @@
         }
       ]
     }
+  },
+  "datamatrix2": {
+    "data": {
+      "sections": [
+        {
+          "rows": [
+            {
+              "name": "OS",
+              "value": ["Android 12", "Android 11", "Android 10"]
+            },
+            {
+              "name": "RAM",
+              "value": ["8GB", "12GB", "16GB"]
+            },
+            {
+              "name": "STORAGE",
+              "value": ["128GB", "64GB", "32GB"]
+            },
+            {
+              "name": "NETWORK TYPE",
+              "value": ["5G", "4G", "3G"]
+            }
+          ]
+        }
+      ]
+    }
   }
 }
