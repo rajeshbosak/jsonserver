@@ -170,27 +170,22 @@
       "columns": [
         "october",
         "november",
-        "december",
-        "January",
-        "Febraury",
-        "March",
-        "April",
-        "May"
+        "december"
       ],
       "sections": [
         {
           "rows": [
             {
               "name": "width",
-              "value": [112, 175, 156, 43, 434, 343, 4343, 434]
+              "value": [112, 175, 156]
             },
             {
               "name": "height",
-              "value": [343, 434, 243, 12, 12, 42, 321, 42]
+              "value": [343, 434, 243]
             },
             {
               "name": "depth",
-              "value": [34, 3, 143, 878, 87, 98, 67, 565]
+              "value": [34, 3, 143]
             }
           ]
         },
