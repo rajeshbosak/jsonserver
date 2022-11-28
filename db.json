@@ -49,6 +49,14 @@
             {
               "name": "NETWORK TYPE",
               "value": ["5G", "4G", "3G"]
+            },
+            {
+              "name": "Number",
+              "value": [22, 33, 89]
+            },
+            {
+              "name": "FRUITS",
+              "value": ["Apple", "Orange", "Papaya"]
             }
           ]
         }
