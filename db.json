@@ -48,7 +48,7 @@
             },
             {
               "name": "NETWORK TYPE",
-              "value": ["5G", "4G", "3G","2G","1G","GSM"]
+              "value": ["5G", "4G", "3G","2G","1G","6G"]
             },
             {
               "name": "Number",
