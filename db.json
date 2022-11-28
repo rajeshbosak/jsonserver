@@ -65,42 +65,32 @@
   },
   "datamatrix3": {
     "data": {
-      "sections": [
+      "sections":      "sections": [
         {
-          "sectionName": "Measurements",
           "rows": [
             {
-              "name": "isInProgress",
-              "value": [true]
+              "name": "OS",
+              "value": ["Android 12", "Android 11", "Android 10"]
             },
             {
-              "name": "projectName",
-              "value": ["elyo"]
+              "name": "RAM",
+              "value": ["8GB", "12GB", "16GB"]
             },
             {
-              "name": "price",
-              "value": ["Rs 150"]
+              "name": "STORAGE",
+              "value": ["128GB", "64GB", "32GB"]
             },
             {
-              "name": "something",
-              "value": ["43fd"]
-            }
-          ]
-        },
-        {
-          "sectionName": "Specs",
-          "rows": [
-            {
-              "name": "isInProgress",
-              "value": [false]
+              "name": "NETWORK TYPE",
+              "value": ["5G", "4G", "3G"]
             },
             {
-              "name": "projectName",
-              "value": ["myspace"]
+              "name": "Number",
+              "value": [11,112,33]
             },
             {
-              "name": "price",
-              "value": ["Rs 50"]
+              "name": "FRUITS",
+              "value": ["Apple", "Orange", "Papaya"]
             }
           ]
         }
