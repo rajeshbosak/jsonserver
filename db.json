@@ -89,7 +89,7 @@
               "value": [11,112,33]
             },
             {
-              "name": "FRUITS",
+              "name": "FRUITS", 
               "value": ["Apple", "Orange", "Papaya"]
             }
           ]
