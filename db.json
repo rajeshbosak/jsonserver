@@ -29,43 +29,9 @@
       ]
     }
   },
-  "datamatrix2": {
-    "data": {
-      "sections": [
-        {
-          "rows": [
-            {
-              "name": "OS",
-              "value": ["Android 12", "Android 11", "Android 10","Android 9", "Android 8", "Android 7"]
-            },
-            {
-              "name": "RAM",
-              "value": ["8GB", "12GB", "16GB","32GB","16GB","8GB"]
-            },
-            {
-              "name": "STORAGE",
-              "value": ["128GB", "64GB", "32GB","16GB","8GB","4GB"]
-            },
-            {
-              "name": "NETWORK TYPE",
-              "value": ["5G", "4G", "3G","2G","1G","6G"]
-            },
-            {
-              "name": "Number",
-              "value": [11,112,33,343,85,136]
-            },
-            {
-              "name": "FRUITS",
-              "value": ["Apple", "Orange", "Papaya","Mango","Pineapple","Banana"]
-            }
-          ]
-        }
-      ]
-    }
-  },
   "datamatrix3": {
     "data": {
-       "sections": [
+      "sections": [
         {
           "rows": [
             {
@@ -86,77 +52,11 @@
             },
             {
               "name": "Number",
-              "value": [11,112,33]
+              "value": [11, 112, 33]
             },
             {
-              "name": "FRUITS", 
+              "name": "FRUITS",
               "value": ["Apple", "Orange", "Papaya"]
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "datamatrix4": {
-    "data": {
-      "sections": [
-        {
-          "rows": [
-            {
-              "name": "width",
-              "value": [112, 175, 156]
-            },
-            {
-              "name": "height",
-              "value": [343, 434, 243]
-            },
-            {
-              "name": "depth",
-              "value": [34, 3, 143]
-            }
-          ]
-        },
-        {
-          "rows": [
-            {
-              "name": "section21",
-              "value": [22, 21, 23]
-            },
-            {
-              "name": "section22",
-              "value": [23, 224, 232]
-            },
-            {
-              "name": "section23",
-              "value": [233, 332, 323]
-            },
-            {
-              "name": "section24",
-              "value": [324, 243, 423]
-            }
-          ]
-        },
-        {
-          "rows": [
-            {
-              "name": "section31",
-              "value": [322, 321, 323]
-            },
-            {
-              "name": "section32",
-              "value": [3323, 33224, 3332]
-            },
-            {
-              "name": "section33",
-              "value": [333233, 3332, 33323]
-            },
-            {
-              "name": "section34",
-              "value": [324, 243, 423]
-            },
-            {
-              "name": "section35",
-              "value": ["one", "two", "three"]
             }
           ]
         }
@@ -165,11 +65,7 @@
   },
   "datamatrix5": {
     "data": {
-      "columns": [
-        "october",
-        "november",
-        "december"
-      ],
+      "columns": ["october", "november", "december"],
       "sections": [
         {
           "rows": [
@@ -238,11 +134,7 @@
   },
   "mediamatrix1": {
     "data": {
-      "columns": [
-        "october",
-        "november",
-        "december"
-      ],
+      "columns": ["october", "november", "december"],
       "sections": [
         {
           "rows": [
