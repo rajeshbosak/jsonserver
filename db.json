@@ -133,72 +133,59 @@
     }
   },
   "mediamatrix1": {
-    "data": {
-      "columns": ["october", "november", "december"],
-      "sections": [
-        {
-          "rows": [
-            {
-              "name": "width",
-              "value": [112, 175, 156]
-            },
-            {
-              "name": "height",
-              "value": [343, 434, 243]
-            },
-            {
-              "name": "depth",
-              "value": [34, 3, 143]
-            }
-          ]
-        },
-        {
-          "sectionName": "Measurements --22",
-          "rows": [
-            {
-              "name": "section21",
-              "value": [22, 21, 23]
-            },
-            {
-              "name": "section22",
-              "value": [23, 224, 232]
-            },
-            {
-              "name": "section23",
-              "value": [233, 332, 323]
-            },
-            {
-              "name": "section24",
-              "value": [324, 243, 423]
-            }
-          ]
-        },
-        {
-          "sectionName": "Specs --33",
-          "rows": [
-            {
-              "name": "section31",
-              "value": [322, 321, 323]
-            },
-            {
-              "name": "section32",
-              "value": [3323, 33224, 33232]
-            },
-            {
-              "name": "section33",
-              "value": [333233, 3332, 33323]
-            },
-            {
-              "name": "section34",
-              "value": [333324, 3333243, 3333423]
-            },
-            {
-              "name": "section35",
-              "value": ["one", "two", "three"]
-            }
-          ]
-        }
-      ]
-    }
+    "data": [
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/1-image.jpg",
+        "src": "https://reqres.in/img/faces/1-image.jpg",
+        "alt": "media-image1"
+      },
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/2-image.jpg",
+        "src": "https://reqres.in/img/faces/2-image.jpg",
+        "alt": "media-image2"
+      },
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/3-image.jpg",
+        "src": "https://reqres.in/img/faces/3-image.jpg",
+        "alt": "media-image3"
+      },
+      {
+        "type": "iframe",
+        "thumbnail": "https://www.google.com/logos/doodles/2023/valentines-day-2023-6753651837109573.3-law.gif",
+        "src": "https://www.google.com/webhp?igu=1",
+        "alt": "media-iframe1"
+      },
+      {
+        "type": "video",
+        "thumbnail": "https://cdn-icons-png.flaticon.com/512/4404/4404094.png",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "alt": "media-video1"
+      },
+      {
+        "type": "iframe",
+        "thumbnail": "https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500",
+        "src": "https://www.youtube.com/embed/vpz7g4rm6Ts",
+        "alt": "media-iframe2"
+      }
+    ]
+  },
+  "mediamatrix2": {
+    "data": [
+      {
+        "type": "iframe",
+        "thumbnail": "https://www.google.com/logos/doodles/2023/valentines-day-2023-6753651837109573.3-law.gif",
+        "src": "https://www.google.com/webhp?igu=1",
+        "alt": "media-iframe1"
+      },
+      {
+        "type": "iframe",
+        "thumbnail": "https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500",
+        "src": "https://www.youtube.com/embed/vpz7g4rm6Ts",
+        "alt": "media-iframe2"
+      }
+    ]
   }
 }
