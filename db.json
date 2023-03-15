@@ -235,5 +235,78 @@
         }
       ]
     }
+  },
+  "mediamatrix1": {
+    "data": {
+      "columns": [
+        "october",
+        "november",
+        "december"
+      ],
+      "sections": [
+        {
+          "rows": [
+            {
+              "name": "width",
+              "value": [112, 175, 156]
+            },
+            {
+              "name": "height",
+              "value": [343, 434, 243]
+            },
+            {
+              "name": "depth",
+              "value": [34, 3, 143]
+            }
+          ]
+        },
+        {
+          "sectionName": "Measurements --22",
+          "rows": [
+            {
+              "name": "section21",
+              "value": [22, 21, 23]
+            },
+            {
+              "name": "section22",
+              "value": [23, 224, 232]
+            },
+            {
+              "name": "section23",
+              "value": [233, 332, 323]
+            },
+            {
+              "name": "section24",
+              "value": [324, 243, 423]
+            }
+          ]
+        },
+        {
+          "sectionName": "Specs --33",
+          "rows": [
+            {
+              "name": "section31",
+              "value": [322, 321, 323]
+            },
+            {
+              "name": "section32",
+              "value": [3323, 33224, 33232]
+            },
+            {
+              "name": "section33",
+              "value": [333233, 3332, 33323]
+            },
+            {
+              "name": "section34",
+              "value": [333324, 3333243, 3333423]
+            },
+            {
+              "name": "section35",
+              "value": ["one", "two", "three"]
+            }
+          ]
+        }
+      ]
+    }
   }
 }
