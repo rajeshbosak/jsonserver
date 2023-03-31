@@ -174,11 +174,35 @@
   },
   "mediamatrix2": {
     "data": [
+       {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/1-image.jpg",
+        "src": "https://reqres.in/img/faces/1-image.jpg",
+        "alt": "media-image1"
+      },
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/2-image.jpg",
+        "src": "https://reqres.in/img/faces/2-image.jpg",
+        "alt": "media-image2"
+      },
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/3-image.jpg",
+        "src": "https://reqres.in/img/faces/3-image.jpg",
+        "alt": "media-image3"
+      },
       {
         "type": "iframe",
         "thumbnail": "https://www.google.com/logos/doodles/2023/valentines-day-2023-6753651837109573.3-law.gif",
         "src": "https://www.google.com/webhp?igu=1",
         "alt": "media-iframe1"
+      },
+      {
+        "type": "video",
+        "thumbnail": "https://cdn-icons-png.flaticon.com/512/4404/4404094.png",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "alt": "media-video1"
       },
       {
         "type": "iframe",
