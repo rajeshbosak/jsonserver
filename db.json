@@ -159,10 +159,10 @@
         "alt": "media-iframe1"
       },
       {
-        "type": 'iframe',
-        "thumbnail": 'https://cdn-icons-png.flaticon.com/512/355/355980.png',
-        "src": 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d227821.9337617886!2d80.80242487947933!3d26.848929331108234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399bfd991f32b16b%3A0x93ccba8909978be7!2sLucknow%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1680606872692!5m2!1sen!2sin',
-        "alt": 'media-iframe1',
+        "type": "iframe",
+        "thumbnail": "https://cdn-icons-png.flaticon.com/512/355/355980.png",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d227821.9337617886!2d80.80242487947933!3d26.848929331108234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399bfd991f32b16b%3A0x93ccba8909978be7!2sLucknow%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1680606872692!5m2!1sen!2sin",
+        "alt": "media-iframe1"
       },
       {
         "type": "video",
@@ -216,7 +216,7 @@
         "src": "https://reqres.in/img/faces/6-image.jpg",
         "alt": "media-image6"
       },
-        {
+      {
         "type": "image",
         "thumbnail": "https://reqres.in/img/faces/7-image.jpg",
         "src": "https://reqres.in/img/faces/7-image.jpg",
