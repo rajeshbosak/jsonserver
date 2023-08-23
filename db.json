@@ -173,61 +173,190 @@
     ]
   },
   "mediamatrix2": {
-    "data": [
+  "storeInfo": {
+    "siteURL": "dev.atfingertips.com",
+    "storeName": {
+      "multipleValue": true,
+      "en": "mystore",
+      "fr": "mystore fr",
+      "sp": "mystore es"
+    },
+    "aboutYourStoreHeading": {
+      "multipleValue": false,
+      "en": "Tienda que tienes"
+    },
+    "aboutYourStore": {
+      "multipleValue": false,
+      "en": "test"
+    },
+    "market": [
       {
-        "type": "image",
-        "thumbnail": "https://reqres.in/img/faces/1-image.jpg",
-        "src": "https://reqres.in/img/faces/1-image.jpg",
-        "alt": "media-image1"
+        "market": "UnitedStates",
+        "value": "US"
       },
       {
-        "type": "image",
-        "thumbnail": "https://reqres.in/img/faces/2-image.jpg",
-        "src": "https://reqres.in/img/faces/2-image.jpg",
-        "alt": "media-image2"
+        "market": "Canada",
+        "value": "CA"
+      }
+    ],
+    "language": [
+      {
+        "name": "English-UnitedStates(en_US)",
+        "value": "en_US1",
+        "parentKey": "US"
       },
       {
-        "type": "image",
-        "thumbnail": "https://reqres.in/img/faces/3-image.jpg",
-        "src": "https://reqres.in/img/faces/3-image.jpg",
-        "alt": "media-image3"
+        "name": "english-canada",
+        "value": "en_CA2",
+        "parentKey": "CA"
       },
       {
-        "type": "image",
-        "thumbnail": "https://reqres.in/img/faces/4-image.jpg",
-        "src": "https://reqres.in/img/faces/4-image.jpg",
-        "alt": "media-image4"
-      },
-      {
-        "type": "image",
-        "thumbnail": "https://reqres.in/img/faces/5-image.jpg",
-        "src": "https://reqres.in/img/faces/5-image.jpg",
-        "alt": "media-image5"
-      },
-      {
-        "type": "image",
-        "thumbnail": "https://reqres.in/img/faces/6-image.jpg",
-        "src": "https://reqres.in/img/faces/6-image.jpg",
-        "alt": "media-image6"
-      },
-      {
-        "type": "image",
-        "thumbnail": "https://reqres.in/img/faces/7-image.jpg",
-        "src": "https://reqres.in/img/faces/7-image.jpg",
-        "alt": "media-image7"
-      },
-      {
-        "type": "image",
-        "thumbnail": "https://reqres.in/img/faces/8-image.jpg",
-        "src": "https://reqres.in/img/faces/8-image.jpg",
-        "alt": "media-image8"
-      },
-      {
-        "type": "image",
-        "thumbnail": "https://reqres.in/img/faces/9-image.jpg",
-        "src": "https://reqres.in/img/faces/9-image.jpg",
-        "alt": "media-image9"
+        "name": "english-mexico",
+        "value": "en_CA1",
+        "parentKey": "CA"
       }
     ]
-  }
+  },
+  "templateInfo": {
+    "templateId": "vanillatemplate2mywywi0ep",
+    "businessId": "emall-nuskinm5rp2ktfq",
+    "bannerImagesInBuilt": {
+      "url": "https://d3gqeq5wcctqxw.cloudfront.net/orchestration/9d018939-ece1-4dd3-b055-22f828ba7413/Nu%20skin%20products.png",
+      "name": "NuSkinProducts"
+    },
+    "bannerImages": [
+      {
+        "url": "https://d3gqeq5wcctqxw.cloudfront.net/orchestration/9d018939-ece1-4dd3-b055-22f828ba7413/Nu%20skin%20products.png",
+        "name": "Custom"
+      }
+    ],
+    "logo": {
+      "url": "https://d3gqeq5wcctqxw.cloudfront.net/orchestration/163f839b-3cc5-44e8-b91c-2ae11c80104e/Logo.webp",
+      "name": "Custom"
+    },
+    "logoInBuilt": {
+      "name": "LogowithText",
+      "url": "https://d3gqeq5wcctqxw.cloudfront.net/orchestration/c9f987b0-e366-4c69-8497-f7b4f7574502/Logo%20with%20Text.webp"
+    },
+    "fonts": {
+      "headerFont": "OpensSans",
+      "paragraphFont": "OpensSans"
+    },
+    "pageColor": "#fff",
+    "navigation": {
+      "headerNavigation": false,
+      "products": []
+    },
+    "footerContact": {
+      "email": {
+        "multipleValue": false,
+        "en": "test@test.com"
+      },
+      "phone": {
+        "multipleValue": false,
+        "en": 7697977777
+      }
+    },
+    "socialMediaLinks": {
+      "links": [
+        {
+          "name": "Facebook",
+          "link": "1"
+        },
+        {
+          "name": "Twitter",
+          "link": "1"
+        },
+        {
+          "name": "Instagram",
+          "link": "2"
+        },
+        {
+          "name": "Pinterest",
+          "link": "3"
+        },
+        {
+          "name": "YouTube",
+          "link": "2"
+        },
+        {
+          "name": "Other",
+          "link": "3"
+        }
+      ]
+    }
+  },
+  "products": {
+    "homePageProducts": {
+      "productPageLayout": true,
+      "products": [
+        "520006",
+        "1000852",
+        "1102773",
+        "1102792"
+      ],
+      "contactInfo": "",
+      "pricingType": ""
+    },
+    "recommendedProducts": {
+      "productPageLayout": true,
+      "products": [
+        "bltd87a6308be52291e"
+      ],
+      "contactInfo": "",
+      "pricingType": ""
+    },
+    "homePageBundleProducts": {
+      "products": [
+        "bundle16927255179150"
+      ]
+    }
+  },
+  "bundles": [
+    {
+      "id": 1,
+      "name": "MyHealthBundle",
+      "about": "",
+      "products": [
+        "blt338143e808d08442",
+        "blt2942bba99fb74142"
+      ],
+      "noOfProducts": 2
+    }
+  ],
+  "shippingAndPayments": {
+    "isFulfillmentByStore": true,
+    "isApplepayStatus": true,
+    "payment": [
+      {
+        "name": "payByCash",
+        "value": null,
+        "imageURL": null
+      },
+      {
+        "name": "applepay",
+        "value": "8398429839",
+        "imageURL": null
+      }
+    ],
+    "orderConfimationPage": {
+      "orderConfirmationTitle": {
+        "multipleValue": false,
+        "en": ""
+      },
+      "orderConfiramtionParagraph": {
+        "multipleValue": false,
+        "en": ""
+      }
+    },
+    "shippingInsert": "shipping code",
+    "shippingAndPayments": {
+      "shippingInsert": {
+        "multipleValue": false,
+        "en": "test"
+      }
+    }
+  },
+  "activeElement": "logoName"
+}
 }
