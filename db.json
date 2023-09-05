@@ -6,23 +6,33 @@
           "rows": [
             {
               "name": "OS",
-              "value": ["Android 12"]
+              "value": [
+                "Android 12"
+              ]
             },
             {
               "name": "OS11",
-              "value": ["Android 12"]
+              "value": [
+                "Android 12"
+              ]
             },
             {
               "name": "RAM",
-              "value": ["8GB"]
+              "value": [
+                "8GB"
+              ]
             },
             {
               "name": "STORAGE",
-              "value": ["120GB"]
+              "value": [
+                "120GB"
+              ]
             },
             {
               "name": "NETWORK TYPE",
-              "value": ["5G,4G,3G"]
+              "value": [
+                "5G,4G,3G"
+              ]
             }
           ]
         }
@@ -36,27 +46,51 @@
           "rows": [
             {
               "name": "OS",
-              "value": ["Android 12", "Android 11", "Android 10"]
+              "value": [
+                "Android 12",
+                "Android 11",
+                "Android 10"
+              ]
             },
             {
               "name": "RAM",
-              "value": ["8GB", "12GB", "16GB"]
+              "value": [
+                "8GB",
+                "12GB",
+                "16GB"
+              ]
             },
             {
               "name": "STORAGE",
-              "value": ["128GB", "64GB", "32GB"]
+              "value": [
+                "128GB",
+                "64GB",
+                "32GB"
+              ]
             },
             {
               "name": "NETWORK TYPE",
-              "value": ["5G", "4G", "3G"]
+              "value": [
+                "5G",
+                "4G",
+                "3G"
+              ]
             },
             {
               "name": "Number",
-              "value": [11, 112, 33]
+              "value": [
+                11,
+                112,
+                33
+              ]
             },
             {
               "name": "FRUITS",
-              "value": ["Apple", "Orange", "Papaya"]
+              "value": [
+                "Apple",
+                "Orange",
+                "Papaya"
+              ]
             }
           ]
         }
@@ -65,21 +99,37 @@
   },
   "datamatrix5": {
     "data": {
-      "columns": ["october", "november", "december"],
+      "columns": [
+        "october",
+        "november",
+        "december"
+      ],
       "sections": [
         {
           "rows": [
             {
               "name": "width",
-              "value": [112, 175, 156]
+              "value": [
+                112,
+                175,
+                156
+              ]
             },
             {
               "name": "height",
-              "value": [343, 434, 243]
+              "value": [
+                343,
+                434,
+                243
+              ]
             },
             {
               "name": "depth",
-              "value": [34, 3, 143]
+              "value": [
+                34,
+                3,
+                143
+              ]
             }
           ]
         },
@@ -88,19 +138,35 @@
           "rows": [
             {
               "name": "section21",
-              "value": [22, 21, 23]
+              "value": [
+                22,
+                21,
+                23
+              ]
             },
             {
               "name": "section22",
-              "value": [23, 224, 232]
+              "value": [
+                23,
+                224,
+                232
+              ]
             },
             {
               "name": "section23",
-              "value": [233, 332, 323]
+              "value": [
+                233,
+                332,
+                323
+              ]
             },
             {
               "name": "section24",
-              "value": [324, 243, 423]
+              "value": [
+                324,
+                243,
+                423
+              ]
             }
           ]
         },
@@ -109,23 +175,43 @@
           "rows": [
             {
               "name": "section31",
-              "value": [322, 321, 323]
+              "value": [
+                322,
+                321,
+                323
+              ]
             },
             {
               "name": "section32",
-              "value": [3323, 33224, 33232]
+              "value": [
+                3323,
+                33224,
+                33232
+              ]
             },
             {
               "name": "section33",
-              "value": [333233, 3332, 33323]
+              "value": [
+                333233,
+                3332,
+                33323
+              ]
             },
             {
               "name": "section34",
-              "value": [333324, 3333243, 3333423]
+              "value": [
+                333324,
+                3333243,
+                3333423
+              ]
             },
             {
               "name": "section35",
-              "value": ["one", "two", "three"]
+              "value": [
+                "one",
+                "two",
+                "three"
+              ]
             }
           ]
         }
@@ -172,7 +258,7 @@
       }
     ]
   },
-   "mediamatrix2": {
+  "mediamatrix2": {
     "data": [
       {
         "type": "image",
@@ -247,192 +333,5 @@
         "alt": "media-image9"
       },
     ]
-  },
-  "dtcendpoint": {
-  "storeInfo": {
-    "siteURL": "dev.atfingertips.com",
-    "storeName": {
-      "multipleValue": true,
-      "en": "mystore",
-      "fr": "mystore fr",
-      "sp": "mystore es"
-    },
-    "aboutYourStoreHeading": {
-      "multipleValue": false,
-      "en": "Tienda que tienes"
-    },
-    "aboutYourStore": {
-      "multipleValue": false,
-      "en": "test"
-    },
-    "market": [
-      {
-        "market": "UnitedStates",
-        "value": "US"
-      },
-      {
-        "market": "Canada",
-        "value": "CA"
-      }
-    ],
-    "language": [
-      {
-        "name": "English-UnitedStates(en_US)",
-        "value": "en_US1",
-        "parentKey": "US"
-      },
-      {
-        "name": "english-canada",
-        "value": "en_CA2",
-        "parentKey": "CA"
-      },
-      {
-        "name": "english-mexico",
-        "value": "en_CA1",
-        "parentKey": "CA"
-      }
-    ]
-  },
-  "templateInfo": {
-    "templateId": "vanillatemplate2mywywi0ep",
-    "businessId": "emall-nuskinm5rp2ktfq",
-    "bannerImagesInBuilt": {
-      "url": "https://d3gqeq5wcctqxw.cloudfront.net/orchestration/9d018939-ece1-4dd3-b055-22f828ba7413/Nu%20skin%20products.png",
-      "name": "NuSkinProducts"
-    },
-    "bannerImages": [
-      {
-        "url": "https://d3gqeq5wcctqxw.cloudfront.net/orchestration/9d018939-ece1-4dd3-b055-22f828ba7413/Nu%20skin%20products.png",
-        "name": "Custom"
-      }
-    ],
-    "logo": {
-      "url": "https://d3gqeq5wcctqxw.cloudfront.net/orchestration/163f839b-3cc5-44e8-b91c-2ae11c80104e/Logo.webp",
-      "name": "Custom"
-    },
-    "logoInBuilt": {
-      "name": "LogowithText",
-      "url": "https://d3gqeq5wcctqxw.cloudfront.net/orchestration/c9f987b0-e366-4c69-8497-f7b4f7574502/Logo%20with%20Text.webp"
-    },
-    "fonts": {
-      "headerFont": "OpensSans",
-      "paragraphFont": "OpensSans"
-    },
-    "pageColor": "#fff",
-    "navigation": {
-      "headerNavigation": false,
-      "products": []
-    },
-    "footerContact": {
-      "email": {
-        "multipleValue": false,
-        "en": "test@test.com"
-      },
-      "phone": {
-        "multipleValue": false,
-        "en": 7697977777
-      }
-    },
-    "socialMediaLinks": {
-      "links": [
-        {
-          "name": "Facebook",
-          "link": "1"
-        },
-        {
-          "name": "Twitter",
-          "link": "1"
-        },
-        {
-          "name": "Instagram",
-          "link": "2"
-        },
-        {
-          "name": "Pinterest",
-          "link": "3"
-        },
-        {
-          "name": "YouTube",
-          "link": "2"
-        },
-        {
-          "name": "Other",
-          "link": "3"
-        }
-      ]
-    }
-  },
-  "products": {
-    "homePageProducts": {
-      "productPageLayout": true,
-      "products": [
-        "520006",
-        "1000852",
-        "1102773",
-        "1102792"
-      ],
-      "contactInfo": "",
-      "pricingType": ""
-    },
-    "recommendedProducts": {
-      "productPageLayout": true,
-      "products": [
-        "bltd87a6308be52291e"
-      ],
-      "contactInfo": "",
-      "pricingType": ""
-    },
-    "homePageBundleProducts": {
-      "products": [
-        "bundle16927255179150"
-      ]
-    }
-  },
-  "bundles": [
-    {
-      "id": 1,
-      "name": "MyHealthBundle",
-      "about": "",
-      "products": [
-        "blt338143e808d08442",
-        "blt2942bba99fb74142"
-      ],
-      "noOfProducts": 2
-    }
-  ],
-  "shippingAndPayments": {
-    "isFulfillmentByStore": true,
-    "isApplepayStatus": true,
-    "payment": [
-      {
-        "name": "payByCash",
-        "value": null,
-        "imageURL": null
-      },
-      {
-        "name": "applepay",
-        "value": "8398429839",
-        "imageURL": null
-      }
-    ],
-    "orderConfimationPage": {
-      "orderConfirmationTitle": {
-        "multipleValue": false,
-        "en": ""
-      },
-      "orderConfiramtionParagraph": {
-        "multipleValue": false,
-        "en": ""
-      }
-    },
-    "shippingInsert": "shipping code",
-    "shippingAndPayments": {
-      "shippingInsert": {
-        "multipleValue": false,
-        "en": "test"
-      }
-    }
-  },
-  "activeElement": "logoName"
-}
+  }
 }
