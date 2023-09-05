@@ -172,7 +172,83 @@
       }
     ]
   },
-  "mediamatrix2": {
+   "mediamatrix2": {
+    "data": [
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/1-image.jpg",
+        "src": "https://reqres.in/img/faces/1-image.jpg",
+        "alt": "media-image1"
+      },
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/2-image.jpg",
+        "src": "https://reqres.in/img/faces/2-image.jpg",
+        "alt": "media-image2"
+      },
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/3-image.jpg",
+        "src": "https://reqres.in/img/faces/3-image.jpg",
+        "alt": "media-image3"
+      },
+      {
+        "type": "iframe",
+        "thumbnail": "https://cdn-icons-png.flaticon.com/512/355/355980.png",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d227821.9337617886!2d80.80242487947933!3d26.848929331108234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399bfd991f32b16b%3A0x93ccba8909978be7!2sLucknow%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1680606872692!5m2!1sen!2sin",
+        "alt": "media-iframe1"
+      },
+      {
+        "type": "video",
+        "thumbnail": "https://cdn-icons-png.flaticon.com/512/4404/4404094.png",
+        "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "alt": "media-video1"
+      },
+      {
+        "type": "iframe",
+        "thumbnail": "https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500",
+        "src": "https://www.youtube.com/embed/vpz7g4rm6Ts",
+        "alt": "media-iframe2"
+      },
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/4-image.jpg",
+        "src": "https://reqres.in/img/faces/4-image.jpg",
+        "alt": "media-image4"
+      },
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/5-image.jpg",
+        "src": "https://reqres.in/img/faces/5-image.jpg",
+        "alt": "media-image5"
+      },
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/6-image.jpg",
+        "src": "https://reqres.in/img/faces/6-image.jpg",
+        "alt": "media-image6"
+      },
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/7-image.jpg",
+        "src": "https://reqres.in/img/faces/7-image.jpg",
+        "alt": "media-image7"
+      },
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/8-image.jpg",
+        "src": "https://reqres.in/img/faces/8-image.jpg",
+        "alt": "media-image8"
+      },
+      {
+        "type": "image",
+        "thumbnail": "https://reqres.in/img/faces/9-image.jpg",
+        "src": "https://reqres.in/img/faces/9-image.jpg",
+        "alt": "media-image9"
+      },
+    ]
+  },
+  "dtcendpoint": {
   "storeInfo": {
     "siteURL": "dev.atfingertips.com",
     "storeName": {
